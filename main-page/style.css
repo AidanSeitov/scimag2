@@ -1,0 +1,44 @@
+body {
+    background: #efefef;
+    margin: 0 auto;
+}
+
+.container.first {
+    width: 50%;
+}
+
+.main-page {
+    margin-top: 10px;
+    padding: 15px;
+    background: #fafafa;
+    border: 1px solid rgb(211, 211, 211);
+    margin-bottom: 10px;
+    border-radius: .5em;
+}
+
+.col h5,
+.col p {
+    margin: 0;
+}
+
+.col img {
+    object-fit: cover;
+    margin-right: 20px;
+    float: right;
+    height: 325px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.data {
+    color: grey;
+}
+
+.tororo {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

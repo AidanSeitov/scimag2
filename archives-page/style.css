@@ -1,0 +1,21 @@
+body {
+    background: #efefef;
+    margin: 0 auto;
+    width: 1240px;
+}
+
+.archive-page {
+    padding: 10px;
+    background: #fafafa;
+    border: 1px solid rgb(211, 211, 211);
+    margin-bottom: 10px;
+    border-radius: .5em;
+}
+
+nav {
+    display: block;
+}
+
+ol.breadcrumb {
+    background: none;
+}
