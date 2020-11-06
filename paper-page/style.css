@@ -1,0 +1,30 @@
+body {
+    background: #efefef;
+    margin: 0 auto;
+}
+
+.container {
+    background-color: #fff;
+    margin: auto;
+}
+
+.col-8 {
+    color: grey;
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.images {
+    float: right;
+    max-width: 30%;
+    height: auto;
+}
+
+.download {
+    color: honeydew;
+}
