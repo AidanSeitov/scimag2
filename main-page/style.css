@@ -1,5 +1,5 @@
 body {
-    background: #efefef;
+    background: white;
     margin: 0 auto;
 }
 
@@ -7,10 +7,16 @@ body {
     width: 80%;
 }
 
+div.jumbotron {
+    background-image: linear-gradient(60deg, #4fdaab 0%, #ffec6d 100%);
+    /* background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%); */
+    /* background-image: linear-gradient(to right, #fddb92 0%, #d1fdff 100%); */
+}
+
 .main-page {
     margin-top: 10px;
     padding: 15px;
-    background: #fafafa;
+    /* background: #fafafa; */
     border: 1px solid rgb(211, 211, 211);
     margin-bottom: 10px;
     border-radius: .5em;
