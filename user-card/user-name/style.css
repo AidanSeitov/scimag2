@@ -1,0 +1,39 @@
+body {
+    background-color: #fefefe;
+}
+
+.container {
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: .5em;
+    margin-top: 10px;
+    max-width: 40%;
+}
+
+.UserName {
+    /* text-align: center; */
+    margin-top: 15px;
+}
+
+.avatar {
+    width: 225px;
+    height: 225px;
+    margin-top: 10px;
+}
+
+.col-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-right: 1px solid rgb(211, 211, 211);
+}
+
+.col-8 h5 {
+    color: rgb(41, 41, 41);
+    margin: 0;
+    margin-top: 10px;
+}
+
+p {
+    margin: 0;
+}
